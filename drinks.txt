@@ -1,6 +1,6 @@
 cola
 milk
 coffee
-teaae
-beerre
-spriteae
+tea
+beer
+sprite
