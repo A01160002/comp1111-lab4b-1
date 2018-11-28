@@ -1,3 +1,6 @@
 cola
 milk
 coffee
+tea
+beer
+sprite
