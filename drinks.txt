@@ -1,6 +1,9 @@
-cola
+coke
 milk
 coffee
 tea
 beer
 sprite
+water
+apple juice
+orange juice
