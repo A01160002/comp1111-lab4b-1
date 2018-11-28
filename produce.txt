@@ -4,3 +4,6 @@ printer
 television
 cemera
 plane
+train
+watche
+car
