@@ -1,3 +1,6 @@
 melonseeds
 cake 
 cucumber
+kitcup
+bean
+icecream
