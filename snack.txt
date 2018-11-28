@@ -1,3 +1,9 @@
 chips
 popcorn
 chocolate
+melonseeds
+cake 
+cucumber
+kitcup
+bean
+icecream
