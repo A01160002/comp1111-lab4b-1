@@ -4,3 +4,6 @@ banana
 pear
 cherry
 watermelon
+peach
+jackfruit
+pomegranate
