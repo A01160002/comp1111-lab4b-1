@@ -1,6 +1,6 @@
 apple
 orange
 banana
-pearra
-cherryay
-watermelononaw
+pear
+cherry
+watermelon
