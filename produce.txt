@@ -1,3 +1,6 @@
 cellphone
 computer
 printer
+television
+cemera
+plane
